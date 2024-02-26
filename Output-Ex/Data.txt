@@ -1,2 +1,1 @@
 This is a regular output
-This is an error message
