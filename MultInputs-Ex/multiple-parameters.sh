@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/zsh
 #
 #		this script takes multiple parameters and prints them to the command line 
 
